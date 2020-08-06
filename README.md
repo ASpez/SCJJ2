@@ -15,5 +15,6 @@ After my first game I would like to put some lessons learned into action.
 # Things to work on
 - [ ] Player state machine
 - [ ] Player stat system
+- [ ] Level end stat/score screen 	
 - [ ] Enemy AI decision tree
 - [ ] etc
